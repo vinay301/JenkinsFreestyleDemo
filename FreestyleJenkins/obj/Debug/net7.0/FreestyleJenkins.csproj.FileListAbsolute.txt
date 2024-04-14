@@ -1,0 +1,15 @@
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\bin\Debug\net7.0\FreestyleJenkins.exe
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\bin\Debug\net7.0\FreestyleJenkins.deps.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\bin\Debug\net7.0\FreestyleJenkins.runtimeconfig.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\bin\Debug\net7.0\FreestyleJenkins.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\bin\Debug\net7.0\FreestyleJenkins.pdb
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\obj\Debug\net7.0\FreestyleJenkins.csproj.AssemblyReference.cache
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\obj\Debug\net7.0\FreestyleJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\obj\Debug\net7.0\FreestyleJenkins.AssemblyInfoInputs.cache
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\obj\Debug\net7.0\FreestyleJenkins.AssemblyInfo.cs
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\obj\Debug\net7.0\FreestyleJenkins.csproj.CoreCompileInputs.cache
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\obj\Debug\net7.0\FreestyleJenkins.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\obj\Debug\net7.0\refint\FreestyleJenkins.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\obj\Debug\net7.0\FreestyleJenkins.pdb
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\obj\Debug\net7.0\FreestyleJenkins.genruntimeconfig.cache
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\DotnetFreestyleJenkinsProject\FreestyleJenkins\FreestyleJenkins\obj\Debug\net7.0\ref\FreestyleJenkins.dll

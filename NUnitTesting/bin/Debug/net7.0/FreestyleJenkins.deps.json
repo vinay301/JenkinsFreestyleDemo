@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FreestyleJenkins/1.0.0": {
+        "runtime": {
+          "FreestyleJenkins.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FreestyleJenkins/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
